@@ -1,4 +1,4 @@
-# codebasicsresumeprojectchallenge2
+#Codebasicsresumeprojectchallenge2
 
 As a data analyst,I have created a report by using POWER BI on Atliq Mart’s Supply Chain domain (FMCG) 
 with input datasets and submitting this as part of Codebasics resume challenge for October 2022. 
